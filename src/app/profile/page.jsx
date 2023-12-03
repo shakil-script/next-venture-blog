@@ -4,6 +4,7 @@ const page = () => {
   return (
     <div>
       <h1>this is profile page</h1>
+      <h1>one changes for profile page </h1>
     </div>
   );
 };
